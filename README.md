@@ -1,6 +1,6 @@
 # Mechanical-Infection
 
-![alt text](https://www.youtube.com/watch?v=6x5x02PUtGQ)
+[alt text](https://www.youtube.com/watch?v=6x5x02PUtGQ)
 
 ![alt text](https://github.com/sashaleee/Mechanical-Infection/blob/master/mi_img/1.jpg)
 
